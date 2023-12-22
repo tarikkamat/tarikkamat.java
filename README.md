@@ -1,1 +1,1 @@
-# tarikkamat.java
+# https://tarikkamat.com/java-programlama-rehberi/
