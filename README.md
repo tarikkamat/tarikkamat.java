@@ -1,1 +1,1 @@
-# https://tarikkamat.com/java-programlama-rehberi/
+# Java | Programlama Rehberi
