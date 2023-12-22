@@ -12,4 +12,4 @@ Her bir başlık, ilgili konunun temel noktalarını anlamak için kapsamlı bir
 
 ---
 
-*Not: Tarihler, belirtilen başlık güncelleme tarihidir ve bağlantılar şu anda erişilebilir değildir. Başlıklar üzerine tıklayarak ilgili içeriğe erişebilirsiniz.*
+*Not: Tarihler, belirtilen başlık güncelleme tarihidir. Başlıklar üzerine tıklayarak ilgili içeriğe erişebilirsiniz.*
