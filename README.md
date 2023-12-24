@@ -8,6 +8,7 @@ Bu rehber, Java programlama dilinin temel konularına odaklanmaktadır. Tür dö
 2. [Java Değişkenler ve Tür Dönüşümleri](https://tarikkamat.com/2023/12/22/java-degiskenler/) (22 Aralık 2023)
 3. [Java Veri Tipleri](https://tarikkamat.com/2023/12/22/javada-veri-tipleri/) (22 Aralık 2023)
 4. [Koşullar ve Döngüler + Hesap Makinesi Programı](https://tarikkamat.com/2023/12/22/kosullar-ve-donguler-hesap-makinesi-programi/) (23 Aralık 2023)
+5. [Metotlar](https://tarikkamat.com/2023/12/javada-metotlar/) (24 Aralık 2023)
 
 
 Her bir başlık, ilgili konunun temel noktalarını anlamak için kapsamlı bir kaynak sağlamaktadır. İlgili başlıklara tıklayarak daha fazla bilgi edinebilirsiniz.
